@@ -9,13 +9,7 @@
   <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmhsaia%2Fpythopad%2F"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social"></a>
   </p>
 <h4 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">Website</a>
-</h4>
-<h4 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">Windows Download</a>
-</h4>
-<h4 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">Mac Download</a>
+  <a href="http://sourceforge.net/projects/pythopad/files/latest/download" target="_blank">Download</a>
 </h4>
 <p align="center">
   <a href="https://mhsaia.me/pythopad" target="_blank">
