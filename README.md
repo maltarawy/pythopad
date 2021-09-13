@@ -16,10 +16,7 @@
   <a href="https://maltarawy.github.io/pythopad/" target="_blank">Website</a>
 </h4>
 <h4 align="center">
-  <a href="https://maltarawy.github.io/pythopad/" target="_blank">Windows Download</a>
-</h4>
-<h4 align="center">
-  <a href="https://maltarawy.github.io/pythopad/" target="_blank">Mac Download</a>
+  <a href="http://sourceforge.net/projects/pythopad/files/latest/download" target="_blank">Download</a>
 </h4>
 <p align="center">
   <a href="https://maltarawy.github.io/pythopad/" target="_blank">
