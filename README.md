@@ -1,8 +1,4 @@
-<h3 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">
-    <img src="img/logo.png" alt="Pythopad"/>
-  </a>
-</h3>
+
 <p align="center">
 <a href="https://github.com/maltarawy/pythopad/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/maltarawy/pythopad"></a>
   <a href="https://github.com/maltarawy/pythopad/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/maltarawy/pythopad"></a>
