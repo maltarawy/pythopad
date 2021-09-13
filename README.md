@@ -38,6 +38,6 @@
 
 ## Pythopad Release Information
 - **Name:** Pythopad
-- **Version:** BETA
+- **Version:** 1.0
 - **Author:** Mohamed Ahmed
-- **Release Date:** 4/16/2019
+- **Release Date:** 9/13/2021
