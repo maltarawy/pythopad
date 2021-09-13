@@ -19,7 +19,7 @@
 </h4>
 <p align="center">
   <a href="https://mhsaia.me/pythopad" target="_blank">
-    <img src="mac-ss.JPG" width = "500" alt="Screenshot"/>
+    <img src="mac-ss.png" width = "500" alt="Screenshot"/>
   </a>
 </p>
 
