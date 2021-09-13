@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">
+  <a href="https://maltarawy.github.io/pythopad/" target="_blank">
     <img src="mac-ss.png" width = "500" alt="Screenshot"/>
   </a>
 </p>
