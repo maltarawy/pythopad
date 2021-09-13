@@ -16,7 +16,11 @@
     <img src="mac-ss.png" width = "500" alt="Screenshot"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="http://sourceforge.net/projects/pythopad/files/latest/download" target="_blank">
+    <img src="download.png" alt="Screenshot"/>
+  </a>
+</p>
 
 ## Features
 - Toolbar
