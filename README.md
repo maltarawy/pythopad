@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="http://sourceforge.net/projects/pythopad/files/latest/download" target="_blank">
-    <img src="download.png" alt="Screenshot"/>
+    <img src="download.png" width = "500" alt="Screenshot"/>
   </a>
 </p>
 
