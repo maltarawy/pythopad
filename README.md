@@ -13,16 +13,16 @@
   <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmhsaia%2Fpythopad%2F"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social"></a>
   </p>
 <h4 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">Website</a>
+  <a href="https://maltarawy.github.io/pythopad/" target="_blank">Website</a>
 </h4>
 <h4 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">Windows Download</a>
+  <a href="https://maltarawy.github.io/pythopad/" target="_blank">Windows Download</a>
 </h4>
 <h4 align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">Mac Download</a>
+  <a href="https://maltarawy.github.io/pythopad/" target="_blank">Mac Download</a>
 </h4>
 <p align="center">
-  <a href="https://mhsaia.me/pythopad" target="_blank">
+  <a href="https://maltarawy.github.io/pythopad/" target="_blank">
     <img src="img/ss.JPG" width = "500" alt="Screenshot"/>
   </a>
 </p>
