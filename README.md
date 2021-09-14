@@ -3,7 +3,7 @@
     <img src="mac-ss.png" width = "500" alt="Screenshot"/>
   </a>
 </p>
-[![Download Pythopad](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/pythopad/files/latest/download)
+[Download Pythopad](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/pythopad/files/latest/download)
 ## Features
 - Toolbar
 - Wide array of view options
