@@ -535,19 +535,19 @@ class Window(wx.Frame):
         info = wx.adv.AboutDialogInfo()
         info.SetName('Pythopad')
         info.SetIcon(wx.Icon('favicon.png', wx.BITMAP_TYPE_PNG))
-        info.SetVersion('BETA')
-        info.SetCopyright('(C) 2020 Mohamed Altarawy')
-        info.SetWebSite('http://mohamedaltarawy.github.io/pythopad/')
+        info.SetVersion('1.0')
+        info.SetCopyright('(C) 2021 Mohamed Altarawy')
+        info.SetWebSite('http://maltarawy.github.io/pythopad/')
         wx.adv.AboutBox(info)
 
     def Homepage(self, e):
-        webbrowser.open('https://mohamedaltarawy.github.io/pythopad/')
+        webbrowser.open('https://maltarawy.github.io/pythopad/')
 
     def GitHub(self, e):
-        webbrowser.open('https://github.com/mohamedaltarawy/pythopad/')
+        webbrowser.open('https://github.com/maltarawy/pythopad/')
 
     def Version(self, e):
-        webbrowser.open('https://github.com/mohamedaltarawy/pythopad/releases')
+        webbrowser.open('https://github.com/maltarawy/pythopad/releases')
 
     def StatusLineColumn(self, e):
         line = self.control.GetCurrentLine() + 1
